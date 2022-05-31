@@ -140,22 +140,22 @@ public class HospitalManagement {
 
         s[0].sid = "22";
         s[0].sname = "Prakash";
-        s[0].desg = "Worker";
+        s[0].desg = "worker";
         s[0].sex = "Male";
         s[0].salary = 5000;
         s[1].sid = "23";
         s[1].sname = "Komal";
-        s[1].desg = "Nurse";
+        s[1].desg = "nurse";
         s[1].sex = "Female";
         s[1].salary = 2000;
         s[2].sid = "24";
         s[2].sname = "Raju";
-        s[2].desg = "Worker";
+        s[2].desg = "worker";
         s[2].sex = "Male";
         s[2].salary = 5000;
         s[3].sid = "25";
         s[3].sname = "Rani";
-        s[3].desg = "Nurse";
+        s[3].desg = "nurse";
         s[3].sex = "Female";
         s[3].salary = 20000;
 
